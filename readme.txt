@@ -1,5 +1,5 @@
- Progress Bar
- ProgressBar is a learning project for WinForm with animation
+Progress Bar
+ProgressBar is a learning project for WinForm with animation
 
 Simple Canvas
 SimpleCanvas is a learning attempt at capturing cursor coordinates
